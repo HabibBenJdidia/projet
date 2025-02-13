@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modification depuis main
+=======
+Modification depuis  new-branch
+>>>>>>> new-branch
